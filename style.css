@@ -25,7 +25,7 @@ a {
 /* button */
 
 .btn {
-    padding: 1rem 1.5rem;
+    padding: 0.8rem 1.3rem;
     border: 1.5px solid black;
     cursor: pointer;
     border-radius: 5px;
@@ -286,7 +286,7 @@ section {
 /* Footer */
 footer {
     margin-bottom: 0;
-    padding: 3rem 0;
+    padding: 2rem 0;
     background:  rgb(209, 207, 207);
     text-align: center;
 }
