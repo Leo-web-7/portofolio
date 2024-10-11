@@ -239,6 +239,12 @@ section {
     padding: 6rem;
 }
 
+.contact .colom {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
 .contact-form div {
     margin-bottom: 1rem;
 }
